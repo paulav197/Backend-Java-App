@@ -18,6 +18,6 @@ Su principal responsabilidad es gestionar la persistencia de datos y exponer una
 - Base de datos PostgreSQL
 
 ## Relación con el frontend
-Este backend funciona en conjunto con el repositorio [LearnApp Frontend (Angular)](), que contiene la lógica de negocio y la interfaz de usuario.
+Este backend funciona en conjunto con el repositorio [LearnApp Frontend (Angular)](https://github.com/paulav197/LearnIt-app.git), que contiene la lógica de negocio y la interfaz de usuario.
 
 
